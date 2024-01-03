@@ -1,0 +1,15 @@
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\TO\TicketOffice\TicketOffice\bin\Debug\net8.0\TicketOffice.exe
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\TO\TicketOffice\TicketOffice\bin\Debug\net8.0\TicketOffice.deps.json
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\TO\TicketOffice\TicketOffice\bin\Debug\net8.0\TicketOffice.runtimeconfig.json
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\TO\TicketOffice\TicketOffice\bin\Debug\net8.0\TicketOffice.dll
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\TO\TicketOffice\TicketOffice\bin\Debug\net8.0\TicketOffice.pdb
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\TO\TicketOffice\TicketOffice\obj\Debug\net8.0\TicketOffice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\TO\TicketOffice\TicketOffice\obj\Debug\net8.0\TicketOffice.AssemblyInfoInputs.cache
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\TO\TicketOffice\TicketOffice\obj\Debug\net8.0\TicketOffice.AssemblyInfo.cs
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\TO\TicketOffice\TicketOffice\obj\Debug\net8.0\TicketOffice.csproj.CoreCompileInputs.cache
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\TO\TicketOffice\TicketOffice\obj\Debug\net8.0\TicketOffice.sourcelink.json
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\TO\TicketOffice\TicketOffice\obj\Debug\net8.0\TicketOffice.dll
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\TO\TicketOffice\TicketOffice\obj\Debug\net8.0\refint\TicketOffice.dll
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\TO\TicketOffice\TicketOffice\obj\Debug\net8.0\TicketOffice.pdb
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\TO\TicketOffice\TicketOffice\obj\Debug\net8.0\TicketOffice.genruntimeconfig.cache
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\TO\TicketOffice\TicketOffice\obj\Debug\net8.0\ref\TicketOffice.dll
